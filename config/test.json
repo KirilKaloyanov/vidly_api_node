@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "1234",
+    "testURL": "http://localhost",
+    "testEnvironment": "node"
+}
