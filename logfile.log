@@ -24,3 +24,5 @@
 {"level":"info","message":"Connected to MongoDB...","timestamp":"2022-02-13T17:52:34.610Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-13T08:18:35.408Z"}
 {"level":"info","message":"Connected to MongoDB...","timestamp":"2022-03-13T08:18:35.456Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-13T08:41:02.891Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2022-03-13T08:41:02.930Z"}

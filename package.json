@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "16.14.0"
   },
   "keywords": [],
   "author": "",
