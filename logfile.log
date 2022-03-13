@@ -26,3 +26,7 @@
 {"level":"info","message":"Connected to MongoDB...","timestamp":"2022-03-13T08:18:35.456Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-13T08:41:02.891Z"}
 {"level":"info","message":"Connected to MongoDB...","timestamp":"2022-03-13T08:41:02.930Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-13T09:58:28.629Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2022-03-13T09:58:28.694Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-03-13T10:01:19.622Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2022-03-13T10:01:19.687Z"}
